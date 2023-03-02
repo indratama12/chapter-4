@@ -4,7 +4,7 @@ from datetime import datetime
 
 connection_string = '...'
 client = MongoClient(connection_string)
-db = client.
+db = client
 
 app = Flask(__name__)
 
